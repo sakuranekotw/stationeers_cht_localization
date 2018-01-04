@@ -6,13 +6,13 @@
   <Reagents>
     <RecordReagent>
       <Key>Flour</Key>
-      <Value>Flour</Value>
-      <Unit>g</Unit>
+      <Value>麵粉(Flour)</Value>
+      <Unit>克</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Milk</Key>
-      <Value>Milk</Value>
-      <Unit>ml</Unit>
+      <Value>牛奶(Milk)</Value>
+      <Unit>毫升</Unit>
     </RecordReagent>
     <RecordReagent>
       <Key>Egg</Key>
